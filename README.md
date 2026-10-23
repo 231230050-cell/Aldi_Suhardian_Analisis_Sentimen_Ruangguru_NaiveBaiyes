@@ -1,0 +1,2 @@
+# Aldi_Suhardian_Analisis_Sentimen_Ruangguru_NaiveBaiyes
+Visualisasi Analisis Sentimen Ulasan Ruang guru Menggunakan Multinomial Naive Bayes
